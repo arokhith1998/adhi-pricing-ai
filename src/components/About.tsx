@@ -34,12 +34,12 @@ export default function About() {
                 <dd className="text-zinc-100">Pricing · Analytics · AI</dd>
               </div>
               <div className="flex justify-between">
-                <dt className="text-zinc-500">Education</dt>
-                <dd className="text-zinc-100">M.S. Simon (Rochester)</dd>
+                <dt className="text-zinc-500">Specialization</dt>
+                <dd className="text-zinc-100">Elasticity · Architecture</dd>
               </div>
               <div className="flex justify-between">
                 <dt className="text-zinc-500">Open to</dt>
-                <dd className="text-zinc-100">Full-time roles</dd>
+                <dd className="text-zinc-100">Pricing / Strategy roles</dd>
               </div>
             </dl>
           </div>

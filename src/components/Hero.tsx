@@ -13,13 +13,18 @@ export default function Hero() {
         className="grid md:grid-cols-[1fr_auto] gap-10 items-center"
       >
         <div>
-          <p className="text-sm font-medium text-zinc-500 mb-4">
-            Hi, I&apos;m Adhithya -
-          </p>
+          <div className="flex items-center gap-2 mb-4">
+            <span className="inline-flex items-center rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-200 text-[11px] font-semibold px-2.5 py-0.5 uppercase tracking-wider">
+              Pricing × AI
+            </span>
+            <span className="text-sm font-medium text-zinc-500">
+              Hi, I&apos;m Adhithya
+            </span>
+          </div>
           <h1 className="text-4xl sm:text-6xl font-semibold tracking-tight leading-[1.05] max-w-3xl text-zinc-50">
-            Pricing Strategy & AI Leader -{" "}
+            Pricing Strategist & AI Builder -{" "}
             <span className="text-zinc-500">
-              Price Architecture & AI Products.
+              Architecture, Elasticity & AI Products.
             </span>
           </h1>
           <p className="mt-6 max-w-2xl text-lg text-zinc-400 leading-relaxed">
@@ -46,6 +51,28 @@ export default function Hero() {
               <Mail className="w-4 h-4" /> Contact
             </a>
           </div>
+          <div className="mt-8 flex flex-wrap gap-2">
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              $626M margin-recovery analysis
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              Pricing spec @ Simon
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              Anthropic Certified
+            </span>
+          </div>
+          <div className="mt-8 flex flex-wrap gap-2">
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              $626M margin-recovery analysis
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              Pricing spec @ Simon
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              Anthropic Certified
+            </span>
+          </div>
         </div>
 
         <div className="relative shrink-0 justify-self-start md:justify-self-end">
@@ -57,8 +84,8 @@ export default function Hero() {
               className="w-full h-full object-cover"
             />
           </div>
-          <span className="absolute -bottom-1 left-1/2 -translate-x-1/2 flex items-center gap-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/40 text-emerald-300 text-[11px] font-semibold px-2.5 py-1 whitespace-nowrap">
-            <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse" />
+          <span className="absolute -bottom-1 left-1/2 -translate-x-1/2 flex items-center gap-1.5 rounded-full bg-cyan-500/10 border border-cyan-500/40 text-cyan-300 text-[11px] font-semibold px-2.5 py-1 whitespace-nowrap">
+            <span className="h-1.5 w-1.5 rounded-full bg-cyan-400 animate-pulse" />
             Open to work
           </span>
         </div>
