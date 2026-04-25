@@ -9,9 +9,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Adhithya Rokhith Bhaskar - Pricing Strategy & AI Leader",
+  title: "Adhithya Rokhith Bhaskar - Pricing Strategist (AI-fluent)",
   description:
-    "Pricing Strategy & AI Leader — price architecture, elasticity, margin recovery, and AI product building. Anthropic certified.",
+    "Pricing Strategist — price architecture, elasticity, margin recovery. AI product-building on the side. Anthropic certified.",
 };
 
 export default function RootLayout({
@@ -21,8 +21,8 @@ export default function RootLayout({
     <html lang="en" className={`${inter.variable} antialiased`}>
       <body className="font-sans">
         {children}
-        {/* tw-safelist */}
         <span className="hidden bg-cyan-500/10 border-cyan-500/40 border-cyan-500/30 text-cyan-300 text-cyan-200 bg-cyan-400" aria-hidden />
+
         <Analytics />
       </body>
     </html>

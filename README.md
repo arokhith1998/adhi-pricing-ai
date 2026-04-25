@@ -1,3 +1,3 @@
-# Adhi — Pricing + AI Portfolio
+# Adhi - Pricing × AI Portfolio
 
-Pricing Strategy with AI-powered product building.
+Pricing Strategy with AI product building.

@@ -22,13 +22,13 @@ export default function Hero() {
             </span>
           </div>
           <h1 className="text-4xl sm:text-6xl font-semibold tracking-tight leading-[1.05] max-w-3xl text-zinc-50">
-            Pricing Strategist & AI Builder -{" "}
+            Pricing Strategist -{" "}
             <span className="text-zinc-500">
-              Architecture, Elasticity & AI Products.
+              Architecture, Elasticity & Margin Recovery.
             </span>
           </h1>
           <p className="mt-6 max-w-2xl text-lg text-zinc-400 leading-relaxed">
-            Pricing strategist with an AI builder's toolkit. M.S. Marketing Analytics with a Pricing specialization (Simon Business School) applied to price architecture, elasticity modeling, and margin recovery - plus building AI products like SwipeHire and NSE-Bot. Anthropic certified. Based in Boston, MA.
+            Pricing strategist with a builder's toolkit. M.S. Marketing Analytics with a Pricing specialization (Simon Business School) applied to price architecture, elasticity modelling, and $626M margin-recovery analysis across 1,200 opportunities. Also shipping AI products like SwipeHire and NSE-Bot. Anthropic certified. Based in Boston, MA.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">
@@ -51,18 +51,8 @@ export default function Hero() {
               <Mail className="w-4 h-4" /> Contact
             </a>
           </div>
-          <div className="mt-8 flex flex-wrap gap-2">
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              $626M margin-recovery analysis
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              Pricing spec @ Simon
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              Anthropic Certified
-            </span>
-          </div>
-          <div className="mt-8 flex flex-wrap gap-2">
+
+          <div className="mt-6 flex flex-wrap gap-2">
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
               $626M margin-recovery analysis
             </span>

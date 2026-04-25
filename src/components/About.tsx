@@ -7,7 +7,7 @@ export default function About() {
       <div className="mt-6 grid md:grid-cols-5 gap-10">
         <div className="md:col-span-3 space-y-4 text-zinc-300 leading-relaxed">
           <p>
-            I work at the intersection of pricing and AI - <strong className="text-zinc-100">pricing strategy</strong>, <strong className="text-zinc-100">price architecture</strong>, <strong className="text-zinc-100">elasticity modeling</strong>, <strong className="text-zinc-100">margin recovery</strong>, and <strong className="text-zinc-100">AI-driven products</strong>. From a Pricing-specialized M.S. at Simon to shipping AI tools like SwipeHire (AI job matching) and NSE-Bot (paper-trading on live market signals).
+            I work at the intersection of pricing and analytics - <strong className="text-zinc-100">pricing strategy</strong>, <strong className="text-zinc-100">price architecture</strong>, <strong className="text-zinc-100">elasticity modelling</strong>, and <strong className="text-zinc-100">margin recovery</strong>, with <strong className="text-zinc-100">AI</strong> as a force multiplier. Simon Pricing spec, a $626M margin-recovery dashboard, plus AI builds like SwipeHire and NSE-Bot.
           </p>
           <p>
             I&apos;m drawn to the problems where the answer sits at the
